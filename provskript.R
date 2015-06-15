@@ -1,0 +1,1 @@
+Provar att placera ett skript i git folder
